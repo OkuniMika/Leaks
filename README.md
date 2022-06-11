@@ -1,2 +1,6 @@
 # Leaks
 Just random leaks
+
+/!\ WARNING /!\
+
+I'M NOT RESPONSIBLE FOR THE FUTURE HACKS USING THIS COMBOLIST.
