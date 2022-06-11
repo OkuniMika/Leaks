@@ -12,8 +12,6 @@ genesisSevenTWOFOUR!
 genesisSeven:TWOFOUR!
 GENESISSevenTWOFOUR
 GENESISSeven:TWOFOUR
-GENESISSevenTWOFOUR!
-GENESISSeven:TWOFOUR!
 GenesisSevenTwoFour
 GenesisSeven:TwoFour
 GenesisSevenTwoFour!
